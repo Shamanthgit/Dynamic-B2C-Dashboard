@@ -5,5 +5,5 @@
 1. Dashboard: Interactive Dashboard with visuals
 2. Input Data: This sheet has to be updated regular basis to capture actual sales data
 3. Master Data: This is the product catalog sheet, which has to be updated on the addition/ deletion of the product from the list
-4. Analysis: This sheet includes all backend calculations done to visualize the data from the input sheet.
-5. Color Guideline: This sheet has the reference color codes to customize the theme of the dashboard.
+4. Pivot Table: This sheet includes all backend calculations done to visualize the data from the input sheet.
+
